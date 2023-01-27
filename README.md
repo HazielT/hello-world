@@ -1,4 +1,4 @@
-# hello-world
-the first repo
-### what i hope to get from this class
-*i am hoping i can learn alot about coding team work in this class*
+	# Your name  Haziel Trujillo
+	### CSCI-205 Integrated Project
+	- So far its been a tie between C++ and Python
+	- I would love a job in game deisgn but i just hope i can get a coding job where i can support myself and my family 
